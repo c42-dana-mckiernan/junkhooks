@@ -49,3 +49,5 @@ Also probably helps if you spell things correctly.
 Okay, let's try it this way.  We know it'll fail, but differently
 
 ## This seems like an awfully big change. Do we trust it?
+
+Not entirely, but it's mostly doing what we expected, even if it doesn't work.  yet.
