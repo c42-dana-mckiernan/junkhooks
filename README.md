@@ -31,3 +31,5 @@ stop forgetting
 > oooo, debugging!
 
 ## Hey, maybe see what the error is?
+
+You would think you were already checking that...
