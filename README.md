@@ -41,3 +41,5 @@ You would think you were already checking that...
 Still trying to get it to actually work, though.
 
 ## It's working. It's just not behaving as desired!
+
+Also probably helps if you spell things correctly.
