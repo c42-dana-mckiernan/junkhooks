@@ -39,3 +39,5 @@ You would think you were already checking that...
 ## See?  Progress!
 
 Still trying to get it to actually work, though.
+
+## It's working. It's just not behaving as desired!
